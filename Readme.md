@@ -1,7 +1,9 @@
 Use of any of these parts shall constitute your acceptance of the following:
 
 a) I (the file's author) am released from any and all liability
+
 b) No warranties, express or implied, are provided
+
 c) USE AT YOUR OWN RISK!!! These parts CAN fail catastrophically. Failing to address layer and material strength drastically increases this possibility.
 
 
