@@ -1,3 +1,8 @@
+So, you've got a shinny new M&P 9mm shield ... but it ships with a short magazine and your hand is too big for a good grip on it. Extended magazines are on back order or can only be had via a select few resellers who are charging ~$20-$30 more than MSRP. Here is a temporary fix you might like to try. See the readme for further details.
+
+
+
+
 Use of any of these parts shall constitute your acceptance of the following:
 
 a) I (the file's author) am released from any and all liability
