@@ -1,19 +1,19 @@
 Description:
 -------------------------
-
 If you happen to own a 9mm M&P Shield and have medium to large hands, you probably can't get all your fingers on it without the extended magazine.
 
 Unfortunately, the pistol ships with just one extended magazine and they are hard/impossible to come by in stores. Sellers who have them are generally charging $20-30 above MSRP. The extended magazines also have a poorly designed base pad that can slide up the magazine and cause it not to "lock in" when reloading.
 
-In an effort to safely improve weapon grip while fixing the failures caused by the two-piece design on factory made 8-round magazines, I began testing these printable designs.
+In an effort to safely improve weapon grip while fixing the failures caused by the two-piece design on factory made 8-round magazines, I began testing these printable designs.  
+
 
 Disclaimer:
 -------------------------
-
 By using of any of these files, you agree to the following:
+
 * I (the file's author) am released from any and all liability
 * No warranties, express or implied, are provided
-* USE AT YOUR OWN RISK!!! These parts CAN fail catastrophically. Failing to address layer and material strength drastically increases this possibility.
+* USE AT YOUR OWN RISK!!! These parts CAN fail catastrophically. Failing to address layer and material strength drastically increases this possibility.  
 
 
 Instructions:
