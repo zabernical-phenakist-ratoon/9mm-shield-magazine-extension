@@ -1,42 +1,43 @@
-Use of any of these parts shall constitute your acceptance of the following:
+Description:
+-------------------------
+If you happen to own a 9mm M&P Shield and have medium to large hands, you probably can't get all your fingers on it without the extended magazine.
 
-a) I (the file's author) am released from any and all liability
+Unfortunately, the pistol ships with just one extended magazine and they are hard/impossible to come by in stores. Sellers who have them are generally charging $20-30 above MSRP. The extended magazines also have a poorly designed base pad that can slide up the magazine and cause it not to "lock in" when reloading.
 
-b) No warranties, express or implied, are provided
-
-c) USE AT YOUR OWN RISK!!! These parts CAN fail catastrophically. Failing to address layer and material strength drastically increases this possibility.
-
-
-If you are still reading... here is what I did to achieve descent results. DO NOT ASSUME THAT THE PRINTED PARTS ARE STRONG ENOUGH BY THEMSELVES!!!! A few drops on a hard surface is all it takes to make the layers fail.
+In an effort to safely improve weapon grip while fixing the failures caused by the two-piece design on factory made 8-round magazines, I began testing these printable designs.  
 
 
-Here is what I did to make a piece that has lasted through a dozen or so drop tests on gravel and had no problem firing 21 rounds afterwards:
+Disclaimer:
+-------------------------
+By using of any of these files, you agree to the following:
 
-a) Find "Mag_extender_4_back_turned.stl" and "Mag_extender_4_front_turned.stl".
-
-b) These are oriented in what I consider to be the optimum printing position. Print them with only 1 or 2 perimeters and no infill. I used ABS, other flexible filaments may work well. PLA should probably be avoided because it has a tendency to shatter rather than bend.
-
-c) Other STL and original IPT files are provided... just because. Delete them or use them as you see fit.
-
-d) Find "Make holes at the red areas.jpg"
-
-e) Make holes in the red areas... duh. You should now see the interior of you hollow part. If it isn't empty space in there,
-the next step will not go well.
-
-f) Use epoxy to fill both halves to the brim. Ensure that the epoxy is not too viscous - this will cause voids in the part that will become weak spots.
-
-g) Give the epoxy some time to settle into the voids and thicken - otherwise it will just spill out in the next step. Don't let the epoxy get so hard that it won't bond to anything though.
-
-g) Spill a bit more epoxy on what is left of the printed surface - only on the sides that were stuck to the build plate
-
-h) Hold the two surfaces together
-
-i) Once it hardens, you can reassemble the magazine and enjoy having an extra finger's worth of grip while using the shorter magazine.
+* I (the file's author) am released from any and all liability
+* No warranties, express or implied, are provided
+* USE AT YOUR OWN RISK!!! These parts CAN fail catastrophically. Failing to address layer and material strength drastically increases this possibility.  
 
 
-Before and after pictures demonstrate what happened after being dropped from approximately 7 feet onto gravel 12 times (while the magazine was empty). The damage appears to be mostly superficial - dents and dings, but no layer separation. I think the lighting in the second picture makes it seem as though the joint between the two halves is failing, but really it hasn't changed.
+Instructions:
+-------------------------
+* Find "Mag_extender_4_back_turned.stl" and "Mag_extender_4_front_turned.stl". This is the most successful iteration and it must be printed as 2 parts.
+* Print them with only 1 or 2 perimeters and no infill. I used ABS, other flexible filaments may work well. PLA should probably be avoided because it has a tendency to shatter rather than bend.
+* Reference the image "Make holes at the red areas.jpg" - You'll want to drill or cut here.
+* You should now see the interior of your hollow part. If it isn't empty space in there, the next step will not go well.
+* Use epoxy to fill both halves to the brim. Ensure that the epoxy is not too viscous - this will cause voids in the part that will become weak spots. For reference, "i used this epoxy.jpg" shows what was used on the test piece.
+* Let the epoxy set a little bit. You want it to be tacky enough to still bond to itself, but not runny enough to readily pour out of the part.
+* Looking at "Make holes at the red areas.jpg", on the surface that you cut or drilled, apply fresh epoxy to the remaining green areas
+* Clamp or tape the two halves together such that the red areas are joined. You want to glue the bases of your printed halves together to form the completed part.
 
 
-Note that one of the versions of this "magazine extender" *Can* be used to hold an 8th round. Assembly is trickier and this version only survived 3 drops before layers started to fail. If you have the means of producing a solid piece, perhaps then it would be strong enough to survive being dropped. The walls were too thin for the epoxy-filled-cavity trick to work. 
+Testing:
+-------------------------
+As I mentioned, I have been trying to find a design that is an improvement over the stock parts. I want improved grip on the weapon and a one-piece design so that nothing can slide around when dropped.
 
+Although one of the designs that was tested includes a cavity that allows a 7-round magazine to hold 8 rounds, this design did not resist damage from being dropped very well. After 3 drops on gravel, the layers started to fail.
 
+The pieces with no cavity survived a couple of drops more than the 8-round design. Ultimately, the layers of a printed piece do not seem strong enough to survive being dripped on a hard surface.
+
+Once filled with epoxy, the printed part had no trouble surviving 12 drops from 7 feet onto gravel (the magazine was empty and dropped with the printed piece facing closest to the ground)
+
+Refer to "before drop test.jpg" and "after drop test.jpg" to see the resultant damage. Dents and jagged edges may make the grip uncomfortable after dropping, but layers did not fail and the magazine functioned fine while firing 21 rounds afterwards.
+
+While it may appear that the glued surface has separated, I think this has to do with the lighting. Both halves are still quite well bonded together.
